@@ -2,7 +2,7 @@
 <h3 align="center">💻 Computer Science & Design Student • Full Stack & AI/ML Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=2E86DE&center=true&vCenter=true&width=520&lines=Studying+Computer+Science+%26+Design+at+YCCE;Java+%7C+Python+%7C+C%2FC%2B%2B+%7C+Spring+Boot;Exploring+AI%2FML+with+TensorFlow;Always+learning%2C+always+building" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=2E86DE&center=true&vCenter=true&width=520&lines=Studying+Computer+Science+%26+Design+at+YCCE;Java+%7C+Python+%7C+C%2FC%2B%2B+%7C+Spring+Boot;Focused+on+DSA+%26+Placement+Preparation;Always+learning%2C+always+building" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -16,10 +16,10 @@
 
 ## 🧑‍💼 About Me
 
-- 🎓 Studying **Computer Science and Design** at **Yeshwantrao Chavan College of Engineering (YCCE), Nagpur**
-- 🌱 Exploring **Full Stack Development** and **AI/ML**, and building a strong foundation across languages, web, and backend technologies
-- 🎯 Currently focused on **learning and skill-building**, with real-world projects on the way
-- 💬 Happy to talk about **Java, Python, Spring Boot, or Machine Learning**
+- 🎓 3rd year student, studying **Computer Science and Design** at **Yeshwantrao Chavan College of Engineering (YCCE), Nagpur**
+- 📚 Currently focused on **DSA and placement-oriented preparation**, alongside building a strong foundation across languages, web, and backend technologies
+- 🎯 Working on **problem-solving and interview readiness**, with real-world projects on the way
+- 💬 Happy to talk about **DSA, Java, Python, or Spring Boot**
 
 ---
 
@@ -80,9 +80,9 @@
 
 ## 🧠 Current Focus
 
+- 📊 Data Structures & Algorithms for placement preparation
 - ⚛️ Strengthening Full Stack skills (Spring Boot + web frontend)
-- 🤖 Applying AI/ML concepts with TensorFlow
-- 📊 Building and shipping real-world projects
+- 🚀 Building and shipping real-world projects
 
 ---
 
