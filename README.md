@@ -68,7 +68,7 @@
 ## 📊 GitHub Insights
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ChaitanyaXDev&show_icons=true&theme=default&count_private=true" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ChaitanyaXDev&show_icons=true&theme=default" alt="GitHub Stats" height="165"/>
   <img src="https://github-readme-streak-stats.demolab.com/?user=ChaitanyaXDev" alt="GitHub Streak" height="165"/>
 </p>
 
