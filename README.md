@@ -70,20 +70,24 @@
 <p align="center">
   <img
     src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ChaitanyaXDev&theme=tokyonight"
-    height="180"
+    width="45%"
   />
 
   <img
     src="https://streak-stats.demolab.com/?user=ChaitanyaXDev&theme=tokyonight&hide_border=true"
-    alt="Chaitanya's GitHub Streak"
-    height="180"
+    width="45%"
   />
 </p>
 
 <p align="center">
   <img
     src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ChaitanyaXDev&theme=tokyonight"
-    height="180"
+    width="45%"
+  />
+
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ChaitanyaXDev&theme=tokyonight"
+    width="45%"
   />
 </p>
 
