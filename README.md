@@ -67,29 +67,37 @@
 
 ## 📊 GitHub Insights
 
-<p align="center">
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ChaitanyaXDev&theme=tokyonight"
-    width="45%"
-  />
+<table align="center">
+  <tr>
+    <td align="center">
+      <img
+        src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ChaitanyaXDev&theme=tokyonight"
+        width="420"
+      />
+    </td>
+    <td align="center">
+      <img
+        src="https://streak-stats.demolab.com/?user=ChaitanyaXDev&theme=tokyonight&hide_border=true"
+        width="420"
+      />
+    </td>
+  </tr>
 
-  <img
-    src="https://streak-stats.demolab.com/?user=ChaitanyaXDev&theme=tokyonight&hide_border=true"
-    width="45%"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ChaitanyaXDev&theme=tokyonight"
-    width="45%"
-  />
-
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ChaitanyaXDev&theme=tokyonight"
-    width="45%"
-  />
-</p>
+  <tr>
+    <td align="center">
+      <img
+        src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ChaitanyaXDev&theme=tokyonight"
+        width="420"
+      />
+    </td>
+    <td align="center">
+      <img
+        src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ChaitanyaXDev&theme=tokyonight"
+        width="420"
+      />
+    </td>
+  </tr>
+</table>
 
 ## 🧠 Current Focus
 
