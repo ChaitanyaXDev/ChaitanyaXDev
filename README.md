@@ -67,27 +67,27 @@
 
 ## 📊 GitHub Insights
 
+
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=ChaitanyaXDev&show_icons=true&theme=tokyonight&hide_border=true" 
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=ChaitanyaXDev&show_icons=true&theme=tokyonight&hide_border=true"
     alt="Chaitanya's GitHub Stats"
     height="180"
   />
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=ChaitanyaXDev&theme=tokyonight&hide_border=true" 
+  <img
+    src="https://streak-stats.demolab.com/?user=ChaitanyaXDev&theme=tokyonight&hide_border=true"
     alt="Chaitanya's GitHub Streak"
     height="180"
   />
 </p>
 
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChaitanyaXDev&layout=compact&theme=tokyonight&hide_border=true" 
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChaitanyaXDev&layout=compact&theme=tokyonight&hide_border=true"
     alt="Top Languages"
     height="180"
   />
 </p>
----
 
 ## 🧠 Current Focus
 
