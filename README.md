@@ -67,28 +67,19 @@
 
 ## 📊 GitHub Insights
 
-
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=ChaitanyaXDev&show_icons=true&theme=tokyonight&hide_border=true"
-    alt="Chaitanya's GitHub Stats"
-    height="180"
-  />
-  <img
-    src="https://streak-stats.demolab.com/?user=ChaitanyaXDev&theme=tokyonight&hide_border=true"
-    alt="Chaitanya's GitHub Streak"
-    height="180"
-  />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ChaitanyaXDev&theme=tokyonight" width="95%" />
 </p>
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChaitanyaXDev&layout=compact&theme=tokyonight&hide_border=true"
-    alt="Top Languages"
-    height="180"
-  />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ChaitanyaXDev&theme=tokyonight" width="45%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ChaitanyaXDev&theme=tokyonight" width="45%" />
 </p>
 
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ChaitanyaXDev&theme=tokyonight" width="45%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ChaitanyaXDev&theme=tokyonight&utcOffset=5.5" width="45%" />
+</p>
 ## 🧠 Current Focus
 
 - 📊 Data Structures & Algorithms for placement preparation
