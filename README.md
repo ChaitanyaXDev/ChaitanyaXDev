@@ -69,18 +69,18 @@
 
 <p align="center">
 
-📌 <b>Public Repositories</b> • 💻 <b>Languages</b> • 🔥 <b>Contributions</b> • 🚀 <b>Projects</b>
+<a href="https://github.com/ChaitanyaXDev">
+<img src="https://img.shields.io/badge/GitHub-ChaitanyaXDev-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://github.com/ChaitanyaXDev?tab=repositories">
+<img src="https://img.shields.io/badge/Repositories-View%20Projects-2E86DE?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
 </p>
 
 <p align="center">
-  <a href="https://github.com/ChaitanyaXDev">
-    <img src="https://img.shields.io/badge/GitHub-ChaitanyaXDev-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
-
-<p align="center">
-  <i>Check my GitHub profile for my latest repositories, contributions and projects.</i>
+💻 Java • Python • C/C++ • JavaScript • Spring Boot
 </p>
 
 ## 🧠 Current Focus
