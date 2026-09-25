@@ -1,8 +1,8 @@
-<h1 align="center">Hi 👋, I'm Chaitanya Warghat</h1>
+<h1 align="center">Hi 👋, I'm [Your Name]</h1>
 <h3 align="center">💻 Frontend Developer • ⚛️ React / Vue Enthusiast • 🚀 Future Software Engineer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=2E86DE&center=true&vCenter=true&width=520&lines=Frontend+Developer+%7C+React+%2F+Vue+%2F+GSAP;BTech+in+Computer+Science+%26+Design;Currently+exploring+AI%2FML+%26+Data;Preparing+for+Placements+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=2E86DE&center=true&vCenter=true&width=520&lines=Frontend+Developer+%7C+React+%2F+Vue+%2F+GSAP;Building+clean%2C+interactive+web+experiences;Currently+exploring+AI%2FML+%26+Data;Always+learning%2C+always+building" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -17,32 +17,12 @@
 ## 🧑‍💼 About Me
 
 - ✨ Passionate **Frontend Developer** with a strong focus on building scalable, user-friendly, and visually polished web applications
-- 🎓 Currently in my **5th semester of BTech in Computer Science and Design** at Yeshwantrao Chavan College of Engineering (YCCE), Nagpur — expected to graduate in **2028**
-- 📜 Completed my **Diploma at Government Polytechnic, Washim** in **2025**
-- 💼 Currently doing an **AI/ML & Data internship**, adding data-driven thinking to my frontend skill set
-- 🛠️ Completed **1 internship during my diploma**, and have taken part in **4 hackathons** during my BTech so far
-- 🎯 Actively preparing for placements — sharpening my **DSA, communication, and problem-solving skills**
+- 🚀 Currently exploring **AI/ML & Data**, adding a data-driven perspective to my frontend skill set
+- 🎯 Actively sharpening my **DSA, communication, and problem-solving skills**
 - 💻 Core strengths: **Java, Web Development, and UI/UX Design**
 - 💬 Happy to talk about **React, Vue, and GSAP**
 
 > 💬 *"Code is not just syntax — it's a way to solve real-world problems."*
-
----
-
-## 🎓 Education
-
-| Institution | Degree | Year |
-|---|---|---|
-| Yeshwantrao Chavan College of Engineering, Nagpur | BTech, Computer Science & Design | 2026 – 2028 (expected) |
-| Government Polytechnic, Washim | Diploma | Completed 2025 |
-
----
-
-## 💼 Experience
-
-- **AI/ML & Data Intern** *(Current)* — Working on applied AI/ML and data-focused projects, building on my frontend foundation with data handling and model-driven features.
-- **Intern (Diploma Program)** — Completed a hands-on internship during my diploma, gaining early industry exposure.
-- **Hackathons** — Participated in **4 hackathons** during my BTech, collaborating under time pressure to design and ship working prototypes.
 
 ---
 
@@ -124,12 +104,12 @@ One or two lines describing what it does and the problem it solves.
 
 - ⚛️ Advanced React & Vue Development
 - 🧵 GSAP Animations & Interactive UI
-- 📊 Data Structures & Algorithms for Placements
+- 📊 Data Structures & Algorithms
 
 ## 🏆 Vision 2026
 
 - 🚀 Land a Software Developer role at a product-based company
-- 💼 Build a strong placement-ready portfolio
+- 💼 Build a strong, placement-ready portfolio
 - 🔥 Ship polished, real-world full stack projects
 
 ---
