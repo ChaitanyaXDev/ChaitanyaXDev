@@ -2,7 +2,7 @@
 <h3 align="center">💻 Computer Science & Design Student • Full Stack & AI/ML Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=2E86DE&center=true&vCenter=true&width=520&lines=Studying+Computer+Science+%26+Design+at+YCCE;Java+%7C+Python+%7C+C%2FC%2B%2B+%7C+Spring+Boot;Focused+on+DSA+%26+Placement+Preparation;Always+learning%2C+always+building" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E86DE&center=true&vCenter=true&width=520&lines=Studying+Computer+Science+%26+Design+at+YCCE;Java+%7C+Python+%7C+C%2FC%2B%2B+%7C+Spring+Boot;Focused+on+DSA+%26+Placement+Preparation;Always+learning%2C+always+building" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -48,7 +48,7 @@
 
 **AI / ML**
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=flat-square&logo=plotly&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=flat-square&logo=matplotlib&logoColor=white)
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 
@@ -69,7 +69,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ChaitanyaXDev&show_icons=true&theme=default&count_private=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ChaitanyaXDev" alt="GitHub Streak" height="165"/>
+  <img src="https://github-readme-streak-stats.demolab.com/?user=ChaitanyaXDev" alt="GitHub Streak" height="165"/>
 </p>
 
 <p align="center">
