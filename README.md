@@ -68,19 +68,25 @@
 ## 📊 GitHub Insights
 
 <p align="center">
+  <img
+    src="https://github-stats-fast.vercel.app/api?username=ChaitanyaXDev&show_icons=true&theme=tokyonight&hide_border=true"
+    alt="Chaitanya's GitHub Stats"
+    height="180"
+  />
 
-<a href="https://github.com/ChaitanyaXDev">
-<img src="https://img.shields.io/badge/GitHub-ChaitanyaXDev-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<a href="https://github.com/ChaitanyaXDev?tab=repositories">
-<img src="https://img.shields.io/badge/Repositories-View%20Projects-2E86DE?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
+  <img
+    src="https://streak-stats.demolab.com/?user=ChaitanyaXDev&theme=tokyonight&hide_border=true"
+    alt="Chaitanya's GitHub Streak"
+    height="180"
+  />
 </p>
 
 <p align="center">
-💻 Java • Python • C/C++ • JavaScript • Spring Boot
+  <img
+    src="https://github-stats-fast.vercel.app/api/top-langs/?username=ChaitanyaXDev&layout=compact&theme=tokyonight&hide_border=true"
+    alt="Top Languages"
+    height="180"
+  />
 </p>
 
 ## 🧠 Current Focus
