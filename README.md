@@ -69,22 +69,19 @@
 
 <p align="center">
   <img
-    src="https://github-stats-fast.vercel.app/api?username=ChaitanyaXDev&show_icons=true&theme=tokyonight&hide_border=true"
-    alt="Chaitanya's GitHub Stats"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ChaitanyaXDev&theme=tokyonight"
     height="180"
   />
 
   <img
-    src="https://streak-stats.demolab.com/?user=ChaitanyaXDev&theme=tokyonight&hide_border=true"
-    alt="Chaitanya's GitHub Streak"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ChaitanyaXDev&theme=tokyonight"
     height="180"
   />
 </p>
 
 <p align="center">
   <img
-    src="https://github-stats-fast.vercel.app/api/top-langs/?username=ChaitanyaXDev&layout=compact&theme=tokyonight&hide_border=true"
-    alt="Top Languages"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ChaitanyaXDev&theme=tokyonight"
     height="180"
   />
 </p>
