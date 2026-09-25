@@ -74,7 +74,8 @@
   />
 
   <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ChaitanyaXDev&theme=tokyonight"
+    src="https://streak-stats.demolab.com/?user=ChaitanyaXDev&theme=tokyonight&hide_border=true"
+    alt="Chaitanya's GitHub Streak"
     height="180"
   />
 </p>
