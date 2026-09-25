@@ -68,18 +68,21 @@
 ## 📊 GitHub Insights
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ChaitanyaXDev&theme=tokyonight" width="95%" />
+
+📌 <b>Public Repositories</b> • 💻 <b>Languages</b> • 🔥 <b>Contributions</b> • 🚀 <b>Projects</b>
+
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ChaitanyaXDev&theme=tokyonight" width="45%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ChaitanyaXDev&theme=tokyonight" width="45%" />
+  <a href="https://github.com/ChaitanyaXDev">
+    <img src="https://img.shields.io/badge/GitHub-ChaitanyaXDev-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ChaitanyaXDev&theme=tokyonight" width="45%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ChaitanyaXDev&theme=tokyonight&utcOffset=5.5" width="45%" />
+  <i>Check my GitHub profile for my latest repositories, contributions and projects.</i>
 </p>
+
 ## 🧠 Current Focus
 
 - 📊 Data Structures & Algorithms for placement preparation
