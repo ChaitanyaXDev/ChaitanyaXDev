@@ -19,7 +19,7 @@
 - 🎓 3rd year student, studying **Computer Science and Design** at **Yeshwantrao Chavan College of Engineering (YCCE), Nagpur**
 - 📚 Currently focused on **DSA and placement-oriented preparation**, alongside building a strong foundation across languages, web, and backend technologies
 - 🎯 Working on **problem-solving and interview readiness**, with real-world projects on the way
-- 💬 Happy to talk about **DSA, Java, Python, or Spring Boot**
+- 💬 Happy to talk about **DSA, Java, Python, Spring Boot**
 
 ---
 
