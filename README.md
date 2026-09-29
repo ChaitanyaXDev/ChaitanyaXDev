@@ -1,262 +1,201 @@
-<h1 align="center">Hi 👋, I'm Chaitanya Devendra Warghat</h1>
-
-<h3 align="center">
-💻 Computer Science & Design Student • Java & Full-Stack Developer • DSA & AI/ML Enthusiast
-</h3>
+<!--
+  Chaitanya Devendra Warghat · GitHub Profile
+  Visual system: #0A0A0A / #111111 / #161616 / #DC2626 / #EF4444 / #F3F4F6
+-->
 
 <p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2800&pause=1000&color=EF4444&center=true&vCenter=true&multiline=false&width=650&height=45&lines=Hi%2C+I'm+Chaitanya+Devendra+Warghat+%F0%9F%91%8B;Computer+Science+%26+Design+Student+%F0%9F%8E%93;Java+%26+Full-Stack+Developer+%F0%9F%92%BB;DSA+%26+Placement+Preparation+%F0%9F%A7%A0;Building+Projects+%26+Learning+Every+Day+%F0%9F%9A%80"
-    alt="Typing SVG"
-  />
+  <img src="./assets/header.svg" width="100%" alt="Chaitanya Devendra Warghat — Developer Profile" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/ChaitanyaXDev" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Follow-111111?style=for-the-badge&logo=github&logoColor=white" />
+  <a href="https://github.com/ChaitanyaXDev">
+    <img src="https://img.shields.io/badge/GitHub-Follow-111111?style=for-the-badge&logo=github&logoColor=white&labelColor=0A0A0A" alt="GitHub" />
   </a>
-  <a href="https://www.linkedin.com/in/chaitanyaxdev" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://www.linkedin.com/in/chaitanyaxdev">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-DC2626?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A0A0A" alt="LinkedIn" />
   </a>
-  <a href="https://x.com/ChaitanyaXDev" target="_blank">
-    <img src="https://img.shields.io/badge/X-Follow-111111?style=for-the-badge&logo=x&logoColor=white" />
+  <a href="https://x.com/ChaitanyaXDev">
+    <img src="https://img.shields.io/badge/X-Follow-111111?style=for-the-badge&logo=x&logoColor=white&labelColor=0A0A0A" alt="X" />
   </a>
-  <a href="https://www.instagram.com/chaitnya_patil_008/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  <a href="https://www.instagram.com/chaitnya_patil_008/">
+    <img src="https://img.shields.io/badge/Instagram-Follow-DC2626?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0A0A0A" alt="Instagram" />
   </a>
-  <a href="https://leetcode.com/u/Chaitnya24/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  <a href="https://leetcode.com/u/Chaitnya24/">
+    <img src="https://img.shields.io/badge/LeetCode-Solve-111111?style=for-the-badge&logo=leetcode&logoColor=FFA116&labelColor=0A0A0A" alt="LeetCode" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ChaitanyaXDev&label=PROFILE%20VIEWS&color=EF4444&style=for-the-badge" alt="Profile Views" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&duration=2600&pause=900&color=EF4444&center=true&vCenter=true&width=650&height=40&lines=Computer+Science+%26+Design+Student;Java+%26+Full-Stack+Developer;DSA+%26+Problem+Solving;Exploring+AI%2FML+%26+Real-World+Software" alt="Typing introduction" />
 </p>
 
 ---
 
-## 🧑‍💻 About Me
+## ◈ About Me
 
 <p align="center">
-I'm a <b>Computer Science and Design student</b> at 
-<b>Yeshwantrao Chavan College of Engineering (YCCE), Nagpur</b>,
-focused on becoming a strong software developer through
-<b>DSA, full-stack development, and real-world projects.</b>
+  <b>Computer Science & Design student</b> at <b>YCCE, Nagpur</b>, building toward a strong software-development foundation through <b>Java, full-stack development, DSA, and AI/ML</b>.
 </p>
 
 <p align="center">
-I enjoy working with <b>Java, Python, JavaScript, React, Node.js, Spring Boot, MySQL</b>
-and exploring <b>AI/ML</b> technologies.
+  I enjoy turning practical ideas into working software, learning by building, and steadily improving through problem solving.
 </p>
 
 <p align="center">
-🚀 Building projects • 🧠 Solving DSA problems • 💻 Learning Full Stack • 🎯 Preparing for Placements
+  <img src="https://img.shields.io/badge/B.Tech-CSE%20%26%20Design-DC2626?style=flat-square&labelColor=111111" alt="Degree" />
+  <img src="https://img.shields.io/badge/5th%20Semester-YCCE-111111?style=flat-square&labelColor=0A0A0A" alt="Semester" />
+  <img src="https://img.shields.io/badge/Graduation-2028-DC2626?style=flat-square&labelColor=111111" alt="Graduation" />
+  <img src="https://img.shields.io/badge/Location-Nagpur-111111?style=flat-square&labelColor=0A0A0A" alt="Location" />
 </p>
 
 ---
 
-## 🎓 Education
+## ◈ Featured Projects
 
-<p align="center">
-
-<b>Yeshwantrao Chavan College of Engineering (YCCE), Nagpur</b><br>
-B.Tech in Computer Science and Design (CSD)<br>
-2025 – Present • Expected Graduation: 2028
-
-</p>
+<table align="center" width="100%">
+  <tr>
+    <td width="50%" valign="top" style="padding:16px;">
+      <h3>🌾 FarmerSOS</h3>
+      <p>Safety-focused Android application for farmers working alone at night.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white" />
+        <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white" />
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+      </p>
+      <sub>🚨 One-tap SOS · 🐍 Emergency scenarios · 🌡️ Heat support · 📍 Location support · 📡 Poor-network awareness</sub>
+    </td>
+    <td width="50%" valign="top" style="padding:16px;">
+      <h3>🏙️ Digital Twin Smart City</h3>
+      <p>Digital Twin simulator focused on SDG 11 and resilient smart-city monitoring.</p>
+      <p>
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+        <img src="https://img.shields.io/badge/CesiumJS-111111?style=flat-square&logo=cesium&logoColor=white" />
+      </p>
+      <sub>🌱 NDVI · 🌫️ AQI · 🌦️ Weather · 📊 SDG 11 Health Score · 🌐 Open-Meteo API</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top" style="padding:16px;">
+      <h3>🍲 Seva — Food Donation System</h3>
+      <p>MERN platform connecting food donors with people requesting food.</p>
+      <p>
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+        <img src="https://img.shields.io/badge/Express-111111?style=flat-square&logo=express&logoColor=white" />
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
+      </p>
+      <sub>🔐 Authentication · 🍱 Donation management · 📋 Request management · 📍 Location-based search</sub>
+    </td>
+    <td width="50%" valign="top" style="padding:16px;">
+      <h3>🎓 Internship & Placement Tracker</h3>
+      <p>Web system for managing internship and placement-related information.</p>
+      <p>
+        <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+      </p>
+      <sub>👨‍🎓 Student functionality · ⚙️ Admin functionality · 🗄️ MySQL-backed web application</sub>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 🚀 Featured Projects
+## ◈ Tech Stack & Skills
 
-
-### 🍲 Seva – Food Donation System
-
-A MERN-based platform connecting food donors and people requesting food.
-
-- 🔐 Authentication
-- 🍱 Donation management
-- 📋 Request management
-- 📍 Location-based search
-
-**Tech:** MongoDB • Express.js • React • Node.js
-
----
-
-## 🧠 DSA & Problem Solving
-
+<p align="center"><b>Core Programming</b></p>
 <p align="center">
-  <i>Currently strengthening Data Structures & Algorithms for coding interviews and placement preparation.</i>
+  <img src="https://skillicons.dev/icons?i=java,python,c,cpp,js,php,html,css" alt="Core programming technologies" />
 </p>
 
+<p align="center"><b>Frontend & UI</b></p>
 <p align="center">
-  <a href="https://leetcode.com/u/Chaitnya24/" target="_blank">
-    <img
-      src="https://img.shields.io/badge/LeetCode-Visit%20Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"
-      alt="LeetCode"
-    />
-  </a>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,materialui" alt="Frontend technologies" />
 </p>
 
+<p align="center"><b>Backend</b></p>
 <p align="center">
-  <img
-    src="https://leetcard.jacoblin.cool/Chaitnya24?theme=dark&font=Karma&border=0&radius=12"
-    width="500"
-    alt="LeetCode Stats"
-  />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,spring,flask,fastapi" alt="Backend technologies" />
 </p>
 
----
-
-## 🛠️ Tech Stack
-
-### 💻 Languages
-
-<p>
-  <img src="https://skillicons.dev/icons?i=java,python,c,cpp,js,php,html,css" />
+<p align="center"><b>Databases</b></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase" alt="Database technologies" />
 </p>
 
-### 🌐 Frontend
-
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react" />
-</p>
-
-### ⚙️ Backend
-
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,spring,flask,fastapi" />
-</p>
-
-### 🗄️ Databases
-
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase" />
-</p>
-
-### 📊 AI / Data
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python" />
-</p>
-
-<p>
+<p align="center"><b>Data / AI</b></p>
+<p align="center">
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" />
 </p>
 
-### 🧰 Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,idea,eclipse,figma" />
+<p align="center"><b>Tools</b></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,idea,eclipse,androidstudio,figma" alt="Development tools" />
 </p>
 
 ---
 
-## 💼 Internship Experience
-
-### Front-End Web Development Intern
-**Microspectra Software Technologies Pvt. Ltd.**
-
-📅 June 2024 – July 2024
-
-Focused on frontend web development and practical development experience.
-
----
-
-## 🎯 Current Focus
-
-<table align="center">
-<tr>
-<td align="center" width="220">
-
-🧠  
-<b>DSA</b>
-
-<p>Problem Solving & LeetCode</p>
-
-</td>
-
-<td align="center" width="220">
-
-☕  
-<b>Java</b>
-
-<p>OOP & Backend Development</p>
-
-</td>
-
-<td align="center" width="220">
-
-🌐  
-<b>Full Stack</b>
-
-<p>React + Node + Spring Boot</p>
-
-</td>
-
-<td align="center" width="220">
-
-🤖  
-<b>AI / ML</b>
-
-<p>Exploring Intelligent Applications</p>
-
-</td>
-</tr>
-</table>
-
----
-
-## 📊 GitHub Activity
+## ◈ GitHub Activity
 
 <p align="center">
-  <img
-    src="./profile/github-activity.svg"
-    width="700"
-    alt="ChaitanyaXDev GitHub Activity"
-  />
+  <img src="./assets/github-activity.svg" width="100%" alt="ChaitanyaXDev GitHub Activity" />
 </p>
 
 ---
 
-## 🐍 Contribution Journey
+## ◈ Current Focus
 
 <p align="center">
-  <img
-    src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"
-    alt="GitHub Contribution Snake"
-  />
+  <img src="https://img.shields.io/badge/DSA-Problem%20Solving-DC2626?style=for-the-badge&labelColor=0A0A0A" />
+  <img src="https://img.shields.io/badge/Java-Backend-111111?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=0A0A0A" />
+  <img src="https://img.shields.io/badge/Spring%20Boot-Full%20Stack-DC2626?style=for-the-badge&logo=springboot&logoColor=white&labelColor=0A0A0A" />
+  <img src="https://img.shields.io/badge/AI%2FML-Exploration-111111?style=for-the-badge&labelColor=0A0A0A" />
 </p>
 
 ---
 
-## 🌐 Connect With Me
+## ◈ LeetCode
 
 <p align="center">
+  <a href="https://leetcode.com/u/Chaitnya24/">
+    <img src="https://img.shields.io/badge/LeetCode-Chaitnya24-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=0A0A0A" alt="LeetCode Profile" />
+  </a>
+</p>
 
-<a href="https://github.com/ChaitanyaXDev" target="_blank">
-  <img src="https://skillicons.dev/icons?i=github" width="55" />
-</a>
-&nbsp;&nbsp;
+<p align="center"><i>Practising data structures, algorithms, and interview-oriented problem solving.</i></p>
 
-<a href="https://www.linkedin.com/in/chaitanyaxdev" target="_blank">
-  <img src="https://skillicons.dev/icons?i=linkedin" width="55" />
-</a>
-&nbsp;&nbsp;
+---
 
-<a href="https://x.com/ChaitanyaXDev" target="_blank">
-  <img src="https://skillicons.dev/icons?i=twitter" width="55" />
-</a>
-&nbsp;&nbsp;
+## ◈ Let's Connect
 
-<a href="https://www.instagram.com/chaitnya_patil_008/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=instagram" width="55" />
-</a>
-
+<p align="center">
+  <a href="https://github.com/ChaitanyaXDev">
+    <img src="https://skillicons.dev/icons?i=github" width="56" alt="GitHub" />
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/chaitanyaxdev">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="56" alt="LinkedIn" />
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://x.com/ChaitanyaXDev">
+    <img src="https://skillicons.dev/icons?i=twitter" width="56" alt="X" />
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.instagram.com/chaitnya_patil_008/">
+    <img src="https://skillicons.dev/icons?i=instagram" width="56" alt="Instagram" />
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://leetcode.com/u/Chaitnya24/">
+    <img src="https://skillicons.dev/icons?i=leetcode" width="56" alt="LeetCode" />
+  </a>
 </p>
 
 <p align="center">
-  <i>Building. Learning. Solving. Shipping. 🚀</i>
+  <img src="https://img.shields.io/badge/BUILDING-REAL--WORLD%20SOFTWARE-DC2626?style=for-the-badge&labelColor=0A0A0A" alt="Building real-world software" />
+</p>
+
+<p align="center">
+  <sub>CRAFTED WITH CODE • CURIOSITY • CONSISTENCY</sub><br/>
+  <sub><b>© 2026 CHAITANYA DEVENDRA WARGHAT</b></sub>
 </p>
