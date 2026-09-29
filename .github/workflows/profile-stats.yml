@@ -1,35 +1,43 @@
-name: Update GitHub Profile Stats
+name: Update GitHub Profile Activity
 
 on:
   workflow_dispatch:
   schedule:
     - cron: "17 3 * * *"
 
-jobs:
-  stats:
-    runs-on: ubuntu-latest
+permissions:
+  contents: write
 
-    permissions:
-      contents: write
+concurrency:
+  group: profile-activity
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
 
     steps:
       - name: Checkout repository
         uses: actions/checkout@v6
 
-      - name: Generate GitHub activity
-        uses: cicirello/user-statistician@v1
-        with:
-          include-title: true
-          custom-title: "ChaitanyaXDev · GitHub Activity"
-          small-title: true
-          colors: dark
-          show-border: false
-
-          # Keep only the contribution section.
-          hide-keys: general, repositories, languages
-          category-order: contributions
-
-          image-file: profile/github-activity.svg
-
+      - name: Generate activity SVG
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ github.token }}
+          GITHUB_USERNAME: ${{ github.repository_owner }}
+          OUTPUT_FILE: assets/github-activity.svg
+        run: python scripts/generate_activity.py
+
+      - name: Commit updated activity card
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add assets/github-activity.svg
+
+          if git diff --cached --quiet; then
+            echo "No activity changes to commit."
+            exit 0
+          fi
+
+          git commit -m "Update GitHub activity card"
+          git push
