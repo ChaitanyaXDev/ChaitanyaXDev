@@ -69,49 +69,6 @@ B.Tech in Computer Science and Design (CSD)<br>
 
 ## 🚀 Featured Projects
 
-### 🌾 FarmerSOS
-
-**Farmer safety application designed for farmers working alone at night.**
-
-- 🚨 One-tap emergency SOS
-- 🐍 Emergency scenarios such as snake bite and falls
-- 🌡️ Heat-related emergency support
-- 📍 Location-based emergency functionality
-- 📡 Designed with poor-network environments in mind
-
-**Tech:** Android • Java • Node.js • MongoDB
-
----
-
-### 🏙️ Digital Twin Smart City Dashboard
-
-**Digital Twin simulator focused on SDG 11 and resilient smart-city monitoring.**
-
-- 🌱 NDVI monitoring
-- 🌫️ AQI monitoring
-- 🌦️ Weather information
-- 📊 SDG 11 Health Score
-- 🌐 Open-Meteo API integration
-- 🏙️ 3D city visualization with CesiumJS
-
-**Tech:** React • Node.js • MySQL • JavaScript • HTML • CSS • CesiumJS
-
-**Hackathon:** Enigma 2.0 – YASH 26.0, YCCE Nagpur
-
----
-
-### 🎓 Internship & Placement Tracking System
-
-A web-based system for managing internship and placement-related information.
-
-- 👨‍🎓 Student functionality
-- 🛠️ Admin functionality
-- 🗄️ MySQL database
-- 🌐 Web-based interface
-
-**Tech:** PHP • HTML • CSS • JavaScript • MySQL
-
----
 
 ### 🍲 Seva – Food Donation System
 
@@ -256,20 +213,29 @@ Focused on frontend web development and practical development experience.
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=ChaitanyaXDev&show_icons=true&theme=radical&hide_border=true"
-    width="48%"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ChaitanyaXDev&theme=tokyonight"
+    width="420"
+    alt="GitHub Stats"
   />
 
   <img
-    src="https://streak-stats.demolab.com/?user=ChaitanyaXDev&theme=radical&hide_border=true"
-    width="48%"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ChaitanyaXDev&theme=tokyonight"
+    width="420"
+    alt="GitHub Profile Details"
   />
 </p>
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChaitanyaXDev&layout=compact&theme=radical&hide_border=true"
-    width="45%"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ChaitanyaXDev&theme=tokyonight"
+    width="420"
+    alt="Repositories Per Language"
+  />
+
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ChaitanyaXDev&theme=tokyonight"
+    width="420"
+    alt="Most Commit Language"
   />
 </p>
 
