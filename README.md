@@ -1,25 +1,153 @@
-<h1 align="center">Hi 👋, I'm Chaitanya Warghat</h1>
-<h3 align="center">💻 Computer Science & Design Student • Full Stack & AI/ML Enthusiast</h3>
+<h1 align="center">Hi 👋, I'm Chaitanya Devendra Warghat</h1>
+
+<h3 align="center">
+💻 Computer Science & Design Student • Java & Full-Stack Developer • DSA & AI/ML Enthusiast
+</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E86DE&center=true&vCenter=true&width=520&lines=Studying+Computer+Science+%26+Design+at+YCCE;Java+%7C+Python+%7C+C%2FC%2B%2B+%7C+Spring+Boot;Focused+on+DSA+%26+Placement+Preparation;Always+learning%2C+always+building" alt="Typing SVG" />
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2800&pause=1000&color=EF4444&center=true&vCenter=true&multiline=false&width=650&height=45&lines=Hi%2C+I'm+Chaitanya+Devendra+Warghat+%F0%9F%91%8B;Computer+Science+%26+Design+Student+%F0%9F%8E%93;Java+%26+Full-Stack+Developer+%F0%9F%92%BB;DSA+%26+Placement+Preparation+%F0%9F%A7%A0;Building+Projects+%26+Learning+Every+Day+%F0%9F%9A%80"
+    alt="Typing SVG"
+  />
 </p>
 
 <p align="center">
-<a href="https://github.com/ChaitanyaXDev" target="_blank"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/chaitanyaxdev" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
-<a href="https://x.com/ChaitanyaXDev" target="_blank"><img src="https://img.shields.io/badge/-X-000000?style=flat-square&logo=x&logoColor=white" /></a>
-<a href="https://www.instagram.com/chaitnya_patil_008/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" /></a>
+  <a href="https://github.com/ChaitanyaXDev" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Follow-111111?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/chaitanyaxdev" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://x.com/ChaitanyaXDev" target="_blank">
+    <img src="https://img.shields.io/badge/X-Follow-111111?style=for-the-badge&logo=x&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/chaitnya_patil_008/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/u/Chaitnya24/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ChaitanyaXDev&label=PROFILE%20VIEWS&color=EF4444&style=for-the-badge" alt="Profile Views" />
 </p>
 
 ---
 
-## 🧑‍💼 About Me
+## 🧑‍💻 About Me
 
-- 🎓 3rd year student, studying **Computer Science and Design** at **Yeshwantrao Chavan College of Engineering (YCCE), Nagpur**
-- 📚 Currently focused on **DSA and placement-oriented preparation**, alongside building a strong foundation across languages, web, and backend technologies
-- 🎯 Working on **problem-solving and interview readiness**, with real-world projects on the way
-- 💬 Happy to talk about **DSA, Java, Python, Spring Boot**
+<p align="center">
+I'm a <b>Computer Science and Design student</b> at 
+<b>Yeshwantrao Chavan College of Engineering (YCCE), Nagpur</b>,
+focused on becoming a strong software developer through
+<b>DSA, full-stack development, and real-world projects.</b>
+</p>
+
+<p align="center">
+I enjoy working with <b>Java, Python, JavaScript, React, Node.js, Spring Boot, MySQL</b>
+and exploring <b>AI/ML</b> technologies.
+</p>
+
+<p align="center">
+🚀 Building projects • 🧠 Solving DSA problems • 💻 Learning Full Stack • 🎯 Preparing for Placements
+</p>
+
+---
+
+## 🎓 Education
+
+<p align="center">
+
+<b>Yeshwantrao Chavan College of Engineering (YCCE), Nagpur</b><br>
+B.Tech in Computer Science and Design (CSD)<br>
+2025 – Present • Expected Graduation: 2028
+
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+### 🌾 FarmerSOS
+
+**Farmer safety application designed for farmers working alone at night.**
+
+- 🚨 One-tap emergency SOS
+- 🐍 Emergency scenarios such as snake bite and falls
+- 🌡️ Heat-related emergency support
+- 📍 Location-based emergency functionality
+- 📡 Designed with poor-network environments in mind
+
+**Tech:** Android • Java • Node.js • MongoDB
+
+---
+
+### 🏙️ Digital Twin Smart City Dashboard
+
+**Digital Twin simulator focused on SDG 11 and resilient smart-city monitoring.**
+
+- 🌱 NDVI monitoring
+- 🌫️ AQI monitoring
+- 🌦️ Weather information
+- 📊 SDG 11 Health Score
+- 🌐 Open-Meteo API integration
+- 🏙️ 3D city visualization with CesiumJS
+
+**Tech:** React • Node.js • MySQL • JavaScript • HTML • CSS • CesiumJS
+
+**Hackathon:** Enigma 2.0 – YASH 26.0, YCCE Nagpur
+
+---
+
+### 🎓 Internship & Placement Tracking System
+
+A web-based system for managing internship and placement-related information.
+
+- 👨‍🎓 Student functionality
+- 🛠️ Admin functionality
+- 🗄️ MySQL database
+- 🌐 Web-based interface
+
+**Tech:** PHP • HTML • CSS • JavaScript • MySQL
+
+---
+
+### 🍲 Seva – Food Donation System
+
+A MERN-based platform connecting food donors and people requesting food.
+
+- 🔐 Authentication
+- 🍱 Donation management
+- 📋 Request management
+- 📍 Location-based search
+
+**Tech:** MongoDB • Express.js • React • Node.js
+
+---
+
+## 🧠 DSA & Problem Solving
+
+<p align="center">
+  <i>Currently strengthening Data Structures & Algorithms for coding interviews and placement preparation.</i>
+</p>
+
+<p align="center">
+  <a href="https://leetcode.com/u/Chaitnya24/" target="_blank">
+    <img
+      src="https://img.shields.io/badge/LeetCode-Visit%20Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"
+      alt="LeetCode"
+    />
+  </a>
+</p>
+
+<p align="center">
+  <img
+    src="https://leetcard.jacoblin.cool/Chaitnya24?theme=dark&font=Karma&border=0&radius=12"
+    width="500"
+    alt="LeetCode Stats"
+  />
+</p>
 
 ---
 
@@ -28,142 +156,161 @@
 ### 💻 Languages
 
 <p>
-<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white" />
-<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
-<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
-<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=java,python,c,cpp,js,php,html,css" />
 </p>
 
-### 🌐 Web Development
+### 🌐 Frontend
 
 <p>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
-<img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react" />
 </p>
 
 ### ⚙️ Backend
 
 <p>
-<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
-<img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" />
-<img src="https://img.shields.io/badge/Apache%20Tomcat-F8DC75?style=flat-square&logo=apachetomcat&logoColor=black" />
-</p>
-
-### 📱 Android Development
-
-<p>
-<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white" />
-<img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white" />
-<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,spring,flask,fastapi" />
 </p>
 
 ### 🗄️ Databases
 
 <p>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
-<img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase" />
 </p>
 
-### 🤖 AI / ML & Data
+### 📊 AI / Data
 
 <p>
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
-<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=matplotlib&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=python" />
 </p>
 
-### 🎨 UI/UX & Design
-
 <p>
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
-<img src="https://img.shields.io/badge/GIMP-5C5543?style=flat-square&logo=gimp&logoColor=white" />
-<img src="https://img.shields.io/badge/Inkscape-000000?style=flat-square&logo=inkscape&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" />
 </p>
 
-### 🛠️ Tools & IDEs
+### 🧰 Tools
 
 <p>
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" />
-<img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat-square&logo=intellijidea&logoColor=white" />
-<img src="https://img.shields.io/badge/MySQL%20Workbench-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white" />
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,idea,eclipse,figma" />
 </p>
 
 ---
 
-## 🚀 Projects
+## 💼 Internship Experience
 
-> Projects are on the way — this section will be updated as they ship. Check back soon, or explore my repos below in the meantime.
+### Front-End Web Development Intern
+**Microspectra Software Technologies Pvt. Ltd.**
+
+📅 June 2024 – July 2024
+
+Focused on frontend web development and practical development experience.
 
 ---
 
-## 📊 GitHub Insights
+## 🎯 Current Focus
 
 <table align="center">
-  <tr>
-    <td align="center">
-      <img
-        src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ChaitanyaXDev&theme=tokyonight"
-        width="420"
-      />
-    </td>
-    <td align="center">
-      <img
-        src="https://streak-stats.demolab.com/?user=ChaitanyaXDev&theme=tokyonight&hide_border=true"
-        width="420"
-      />
-    </td>
-  </tr>
+<tr>
+<td align="center" width="220">
 
-  <tr>
-    <td align="center">
-      <img
-        src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ChaitanyaXDev&theme=tokyonight"
-        width="420"
-      />
-    </td>
-    <td align="center">
-      <img
-        src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ChaitanyaXDev&theme=tokyonight"
-        width="420"
-      />
-    </td>
-  </tr>
+🧠  
+<b>DSA</b>
+
+<p>Problem Solving & LeetCode</p>
+
+</td>
+
+<td align="center" width="220">
+
+☕  
+<b>Java</b>
+
+<p>OOP & Backend Development</p>
+
+</td>
+
+<td align="center" width="220">
+
+🌐  
+<b>Full Stack</b>
+
+<p>React + Node + Spring Boot</p>
+
+</td>
+
+<td align="center" width="220">
+
+🤖  
+<b>AI / ML</b>
+
+<p>Exploring Intelligent Applications</p>
+
+</td>
+</tr>
 </table>
 
 ---
 
-## 🧠 Current Focus
+## 📊 GitHub Analytics
 
-- 📊 Data Structures & Algorithms for placement preparation
-- ⚛️ Strengthening Full Stack skills (Spring Boot + web frontend)
-- 🚀 Building and shipping real-world projects
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=ChaitanyaXDev&show_icons=true&theme=radical&hide_border=true"
+    width="48%"
+  />
 
----
+  <img
+    src="https://streak-stats.demolab.com/?user=ChaitanyaXDev&theme=radical&hide_border=true"
+    width="48%"
+  />
+</p>
 
-## 📫 Let's Connect
-
-<p align="left">
-<a href="https://github.com/ChaitanyaXDev" target="_blank"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/chaitanyaxdev" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
-<a href="https://x.com/ChaitanyaXDev" target="_blank"><img src="https://img.shields.io/badge/-X-000000?style=flat-square&logo=x&logoColor=white" /></a>
-<a href="https://www.instagram.com/chaitnya_patil_008/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" /></a>
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChaitanyaXDev&layout=compact&theme=radical&hide_border=true"
+    width="45%"
+  />
 </p>
 
 ---
 
-<p align="center"><i>⭐ Thanks for visiting my profile — more projects coming soon!</i></p>
+## 🐍 Contribution Journey
+
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"
+    alt="GitHub Contribution Snake"
+  />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://github.com/ChaitanyaXDev" target="_blank">
+  <img src="https://skillicons.dev/icons?i=github" width="55" />
+</a>
+&nbsp;&nbsp;
+
+<a href="https://www.linkedin.com/in/chaitanyaxdev" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" width="55" />
+</a>
+&nbsp;&nbsp;
+
+<a href="https://x.com/ChaitanyaXDev" target="_blank">
+  <img src="https://skillicons.dev/icons?i=twitter" width="55" />
+</a>
+&nbsp;&nbsp;
+
+<a href="https://www.instagram.com/chaitnya_patil_008/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=instagram" width="55" />
+</a>
+
+</p>
+
+<p align="center">
+  <i>Building. Learning. Solving. Shipping. 🚀</i>
+</p>
