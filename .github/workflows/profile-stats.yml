@@ -5,53 +5,31 @@ on:
   schedule:
     - cron: "17 3 * * *"
 
-permissions:
-  contents: write
-
-concurrency:
-  group: update-profile-stats
-  cancel-in-progress: false
-
 jobs:
-  update:
+  stats:
     runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
 
     steps:
       - name: Checkout repository
-        uses: actions/checkout@de0fac2e4500dabe0009e67214ff5f5447ce83dd
+        uses: actions/checkout@v6
 
-      - name: Generate profile stats
-        uses: shinpr/github-profile-stats@49b5f7091182a45f3ef93923505b660c6da5f835
-        id: stats
+      - name: Generate GitHub activity
+        uses: cicirello/user-statistician@v1
         with:
-          username: ${{ github.repository_owner }}
-          token: ${{ github.token }}
-          profile: signal-field
+          include-title: true
+          custom-title: "ChaitanyaXDev · GitHub Activity"
+          small-title: true
+          colors: dark
+          show-border: false
 
-      - name: Stage generated stats
+          # Keep only the contribution section.
+          hide-keys: general, repositories, languages
+          category-order: contributions
+
+          image-file: profile/github-activity.svg
+
         env:
-          READY_DIR: ${{ steps.stats.outputs.ready-dir }}
-        run: |
-          mkdir -p profile
-
-          cp "$READY_DIR"/signal-field-*.svg profile/
-
-          test -s profile/signal-field-wide-light.svg
-          test -s profile/signal-field-wide-dark.svg
-          test -s profile/signal-field-compact-light.svg
-          test -s profile/signal-field-compact-dark.svg
-
-          git add profile/signal-field-*.svg
-
-      - name: Commit and push
-        run: |
-          if git diff --cached --quiet; then
-            echo "No changes to commit."
-            exit 0
-          fi
-
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-
-          git commit -m "Update GitHub profile stats"
-          git push
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
