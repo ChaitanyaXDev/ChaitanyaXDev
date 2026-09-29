@@ -159,7 +159,7 @@
 
 ---
 
-## ◈ Let's Connect
+## Let's Connect
 
 <table align="center">
   <tr>
