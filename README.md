@@ -209,60 +209,20 @@ Focused on frontend web development and practical development experience.
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Activity
 
 <p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=ChaitanyaXDev&theme=github-compact&hide_border=true&area=true"
-    width="95%"
-    alt="GitHub Activity Graph"
-  />
-</p>
-
-<br>
-
-<table align="center">
-<tr>
-
-<td width="50%" align="center">
-
-<img
-  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ChaitanyaXDev&theme=github_dark"
-  width="100%"
-  alt="GitHub Profile Details"
-/>
-
-</td>
-
-<td width="50%" align="center">
-
-<img
-  src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ChaitanyaXDev&theme=github_dark&utcOffset=5.5"
-  width="100%"
-  alt="Productive Time"
-/>
-
-</td>
-
-</tr>
-</table>
-
-<br>
-
-<p align="center">
-
-<img
-  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ChaitanyaXDev&theme=github_dark"
-  width="42%"
-  alt="GitHub Stats"
-/>
-
-<img
-  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ChaitanyaXDev&theme=github_dark"
-  width="42%"
-  alt="Repository Languages"
-/>
-
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="./profile/signal-field-wide-dark.svg"
+    />
+    <img
+      src="./profile/signal-field-wide-light.svg"
+      width="720"
+      alt="GitHub Activity"
+    />
+  </picture>
 </p>
 
 ---
