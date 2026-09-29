@@ -161,63 +161,57 @@
 
 ## ◈ Let's Connect
 
-## ◈ Let's Connect
-
 <table align="center">
-  <tr>
-    <td align="center" width="150">
-      <a href="https://github.com/ChaitanyaXDev/">
-        <img src="https://skillicons.dev/icons?i=github" width="58" height="58" alt="GitHub" />
-        <br /><br />
-        <img src="https://img.shields.io/badge/GITHUB-111111?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-      </a>
-    </td>
-
-    <td align="center" width="150">
-      <a href="https://www.linkedin.com/in/chaitanyaxdev/">
-        <img src="https://skillicons.dev/icons?i=linkedin" width="58" height="58" alt="LinkedIn" />
-        <br /><br />
-        <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-      </a>
-    </td>
-
-    <td align="center" width="150">
-      <a href="https://x.com/ChaitanyaXDev/">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/x/FFFFFF" />
-          <img src="https://cdn.simpleicons.org/x/000000" width="58" height="58" alt="X" />
-        </picture>
-        <br /><br />
-        <img src="https://img.shields.io/badge/X-111111?style=for-the-badge&logo=x&logoColor=white" alt="X" />
-      </a>
-    </td>
-
-    <td align="center" width="150">
-      <a href="https://www.instagram.com/chaitnya_patil_008/">
-        <img src="https://skillicons.dev/icons?i=instagram" width="58" height="58" alt="Instagram" />
-        <br /><br />
-        <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-      </a>
-    </td>
-
-    <td align="center" width="150">
-      <a href="https://leetcode.com/u/Chaitnya24/">
-        <img src="https://cdn.simpleicons.org/leetcode/FFA116" width="58" height="58" alt="LeetCode" />
-        <br /><br />
-        <img src="https://img.shields.io/badge/LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
-      </a>
-    </td>
-  </tr>
+<tr>
+<td align="center" width="150">
+<a href="https://github.com/ChaitanyaXDev">
+<img src="https://skillicons.dev/icons?i=github" width="58" height="58" alt="GitHub" />
+<br /><br />
+<img src="https://img.shields.io/badge/GITHUB-111111?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+</td>
+<td align="center" width="150">
+<a href="https://www.linkedin.com/in/chaitanyaxdev">
+<img src="https://skillicons.dev/icons?i=linkedin" width="58" height="58" alt="LinkedIn" />
+<br /><br />
+<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+</td>
+<td align="center" width="150">
+<a href="https://x.com/ChaitanyaXDev">
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/x/FFFFFF" />
+<img src="https://cdn.simpleicons.org/x/000000" width="58" height="58" alt="X" />
+</picture>
+<br /><br />
+<img src="https://img.shields.io/badge/X-111111?style=for-the-badge&logo=x&logoColor=white" alt="X" />
+</a>
+</td>
+<td align="center" width="150">
+<a href="https://www.instagram.com/chaitnya_patil_008/">
+<img src="https://skillicons.dev/icons?i=instagram" width="58" height="58" alt="Instagram" />
+<br /><br />
+<img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+</a>
+</td>
+<td align="center" width="150">
+<a href="https://leetcode.com/u/Chaitnya24/">
+<img src="https://cdn.simpleicons.org/leetcode/FFA116" width="58" height="58" alt="LeetCode" />
+<br /><br />
+<img src="https://img.shields.io/badge/LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+</a>
+</td>
+</tr>
 </table>
 
 <br />
 
 <p align="center">
-  <img src="https://img.shields.io/badge/BUILDING-REAL--WORLD%20SOFTWARE-DC2626?style=for-the-badge&labelColor=0A0A0A" alt="Building Real-World Software" />
+<img src="https://img.shields.io/badge/BUILDING-REAL--WORLD%20SOFTWARE-DC2626?style=for-the-badge&labelColor=0A0A0A" alt="Building Real-World Software" />
 </p>
 
 <p align="center">
-  <sub>CRAFTED WITH CODE • CURIOSITY • CONSISTENCY</sub>
-  <br />
-  <sub><b>© 2026 CHAITANYA DEVENDRA WARGHAT</b></sub>
+<sub>CRAFTED WITH CODE • CURIOSITY • CONSISTENCY</sub>
+<br />
+<sub><b>© 2026 CHAITANYA DEVENDRA WARGHAT</b></sub>
 </p>
