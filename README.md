@@ -188,94 +188,100 @@
 
 ## ◈ Let's Connect
 
+<table align="center" border="0">
+  <tr>
+    <td align="center" width="120">
+      <a href="https://github.com/ChaitanyaXDev">
+        <img
+          src="https://skillicons.dev/icons?i=github"
+          width="58"
+          height="58"
+          alt="GitHub"
+        />
+      </a>
+    </td>
+
+    <td align="center" width="120">
+      <a href="https://www.linkedin.com/in/chaitanyaxdev">
+        <img
+          src="https://skillicons.dev/icons?i=linkedin"
+          width="58"
+          height="58"
+          alt="LinkedIn"
+        />
+      </a>
+    </td>
+
+    <td align="center" width="120">
+      <a href="https://x.com/ChaitanyaXDev">
+        <img
+          src="https://cdn.simpleicons.org/x/000000"
+          width="58"
+          height="58"
+          alt="X"
+        />
+      </a>
+    </td>
+
+    <td align="center" width="120">
+      <a href="https://www.instagram.com/chaitnya_patil_008/">
+        <img
+          src="https://skillicons.dev/icons?i=instagram"
+          width="58"
+          height="58"
+          alt="Instagram"
+        />
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center">
+      <a href="https://github.com/ChaitanyaXDev">
+        <img
+          src="https://img.shields.io/badge/GITHUB-111111?style=for-the-badge&logo=github&logoColor=white"
+          alt="GitHub"
+        />
+      </a>
+    </td>
+
+    <td align="center">
+      <a href="https://www.linkedin.com/in/chaitanyaxdev">
+        <img
+          src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+          alt="LinkedIn"
+        />
+      </a>
+    </td>
+
+    <td align="center">
+      <a href="https://x.com/ChaitanyaXDev">
+        <img
+          src="https://img.shields.io/badge/X-111111?style=for-the-badge&logo=x&logoColor=white"
+          alt="X"
+        />
+      </a>
+    </td>
+
+    <td align="center">
+      <a href="https://www.instagram.com/chaitnya_patil_008/">
+        <img
+          src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
+          alt="Instagram"
+        />
+      </a>
+    </td>
+  </tr>
+</table>
+
+<br>
+
 <p align="center">
-  <a href="https://github.com/ChaitanyaXDev">
-    <img
-      src="https://skillicons.dev/icons?i=github"
-      width="58"
-      height="58"
-      alt="GitHub"
-    />
-  </a>
-
-  &nbsp;&nbsp;&nbsp;
-
-  <a href="https://www.linkedin.com/in/chaitanyaxdev">
-    <img
-      src="https://skillicons.dev/icons?i=linkedin"
-      width="58"
-      height="58"
-      alt="LinkedIn"
-    />
-  </a>
-
-  &nbsp;&nbsp;&nbsp;
-
-  <a href="https://x.com/ChaitanyaXDev">
-    <img
-      src="https://cdn.simpleicons.org/x/000000"
-      width="58"
-      height="58"
-      alt="X"
-    />
-  </a>
-
-  &nbsp;&nbsp;&nbsp;
-
-  <a href="https://www.instagram.com/chaitnya_patil_008/">
-    <img
-      src="https://skillicons.dev/icons?i=instagram"
-      width="58"
-      height="58"
-      alt="Instagram"
-    />
-  </a>
+  <b>BUILDING <span style="color:#DC2626;">REAL-WORLD SOFTWARE</span></b>
 </p>
 
 <p align="center">
-  <a href="https://github.com/ChaitanyaXDev">
-    <img
-      src="https://img.shields.io/badge/GITHUB-111111?style=for-the-badge&logo=github&logoColor=white"
-      alt="GitHub"
-    />
-  </a>
-
-  <a href="https://www.linkedin.com/in/chaitanyaxdev">
-    <img
-      src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
-      alt="LinkedIn"
-    />
-  </a>
-
-  <a href="https://x.com/ChaitanyaXDev">
-    <img
-      src="https://img.shields.io/badge/X-111111?style=for-the-badge&logo=x&logoColor=white"
-      alt="X"
-    />
-  </a>
-
-  <a href="https://www.instagram.com/chaitnya_patil_008/">
-    <img
-      src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
-      alt="Instagram"
-    />
-  </a>
-</p>
-
-<p align="center">
-  <b><font color="#DC2626">BUILDING</font></b>
-  <br/>
-  <sub>REAL-WORLD SOFTWARE</sub>
-</p>
-
-<p align="center">
-  <sub>
-    CRAFTED WITH CODE • CURIOSITY • CONSISTENCY
-  </sub>
-  <br/>
-  <sub>
-    © 2026 CHAITANYA DEVENDRA WARGHAT
-  </sub>
-</p>
-  <sub><b>© 2026 CHAITANYA DEVENDRA WARGHAT</b></sub>
+  <sub>CRAFTED WITH CODE • CURIOSITY • CONSISTENCY</sub>
+  <br>
+  <sub>© 2026 CHAITANYA DEVENDRA WARGHAT</sub>
 </p>
