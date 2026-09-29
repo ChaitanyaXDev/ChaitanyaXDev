@@ -161,74 +161,43 @@
 
 ## ◈ LeetCode
 
-<p align="center">
-  <a href="https://leetcode.com/u/Chaitnya24/" target="_blank">
-    <img
-      src="https://leetcard.jacoblin.cool/Chaitnya24?theme=dark&font=Karma&ext=heatmap"
-      width="520"
-      alt="Chaitnya24 LeetCode Stats"
-    />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://leetcode.com/u/Chaitnya24/" target="_blank">
-    <img
-      src="https://img.shields.io/badge/LeetCode-View%20Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"
-      alt="LeetCode Profile"
-    />
-  </a>
-</p>
-
-<p align="center">
-  <i>Practising data structures, algorithms, and interview-oriented problem solving.</i>
-</p>
-
----
-
-## ◈ Let's Connect
-
-<table align="center" border="0">
+<table align="center">
   <tr>
-    <td align="center" width="120">
+    <td align="center" width="140">
       <a href="https://github.com/ChaitanyaXDev">
         <img
           src="https://skillicons.dev/icons?i=github"
           width="58"
-          height="58"
           alt="GitHub"
         />
       </a>
     </td>
 
-    <td align="center" width="120">
+    <td align="center" width="140">
       <a href="https://www.linkedin.com/in/chaitanyaxdev">
         <img
           src="https://skillicons.dev/icons?i=linkedin"
           width="58"
-          height="58"
           alt="LinkedIn"
         />
       </a>
     </td>
 
-    <td align="center" width="120">
+    <td align="center" width="140">
       <a href="https://x.com/ChaitanyaXDev">
         <img
-          src="https://cdn.simpleicons.org/x/000000"
+          src="https://cdn.simpleicons.org/x/ffffff"
           width="58"
-          height="58"
           alt="X"
         />
       </a>
     </td>
 
-    <td align="center" width="120">
+    <td align="center" width="140">
       <a href="https://www.instagram.com/chaitnya_patil_008/">
         <img
           src="https://skillicons.dev/icons?i=instagram"
           width="58"
-          height="58"
           alt="Instagram"
         />
       </a>
@@ -277,7 +246,10 @@
 <br>
 
 <p align="center">
-  <b>BUILDING <span style="color:#DC2626;">REAL-WORLD SOFTWARE</span></b>
+  <strong>
+    <span style="color:#DC2626;">BUILDING</span>
+    REAL-WORLD SOFTWARE
+  </strong>
 </p>
 
 <p align="center">
