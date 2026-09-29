@@ -159,9 +159,7 @@
 
 ---
 
-## Let's Connect
-
-## Let's Connect
+## ◈ Let's Connect
 
 <p align="center">
   <a href="https://github.com/ChaitanyaXDev">
