@@ -162,12 +162,27 @@
 ## ◈ LeetCode
 
 <p align="center">
-  <a href="https://leetcode.com/u/Chaitnya24/">
-    <img src="https://img.shields.io/badge/LeetCode-Chaitnya24-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=0A0A0A" alt="LeetCode Profile" />
+  <a href="https://leetcode.com/u/Chaitnya24/" target="_blank">
+    <img
+      src="https://leetcard.jacoblin.cool/Chaitnya24?theme=dark&font=Karma&ext=heatmap"
+      width="520"
+      alt="Chaitnya24 LeetCode Stats"
+    />
   </a>
 </p>
 
-<p align="center"><i>Practising data structures, algorithms, and interview-oriented problem solving.</i></p>
+<p align="center">
+  <a href="https://leetcode.com/u/Chaitnya24/" target="_blank">
+    <img
+      src="https://img.shields.io/badge/LeetCode-View%20Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"
+      alt="LeetCode Profile"
+    />
+  </a>
+</p>
+
+<p align="center">
+  <i>Practising data structures, algorithms, and interview-oriented problem solving.</i>
+</p>
 
 ---
 
