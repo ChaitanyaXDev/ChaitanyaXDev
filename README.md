@@ -212,17 +212,11 @@ Focused on frontend web development and practical development experience.
 ## 📊 GitHub Activity
 
 <p align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="./profile/signal-field-wide-dark.svg"
-    />
-    <img
-      src="./profile/signal-field-wide-light.svg"
-      width="720"
-      alt="GitHub Activity"
-    />
-  </picture>
+  <img
+    src="./profile/github-activity.svg"
+    width="700"
+    alt="ChaitanyaXDev GitHub Activity"
+  />
 </p>
 
 ---
