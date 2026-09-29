@@ -213,30 +213,56 @@ Focused on frontend web development and practical development experience.
 
 <p align="center">
   <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ChaitanyaXDev&theme=tokyonight"
-    width="420"
-    alt="GitHub Stats"
-  />
-
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ChaitanyaXDev&theme=tokyonight"
-    width="420"
-    alt="GitHub Profile Details"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=ChaitanyaXDev&theme=github-compact&hide_border=true&area=true"
+    width="95%"
+    alt="GitHub Activity Graph"
   />
 </p>
 
-<p align="center">
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ChaitanyaXDev&theme=tokyonight"
-    width="420"
-    alt="Repositories Per Language"
-  />
+<br>
 
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ChaitanyaXDev&theme=tokyonight"
-    width="420"
-    alt="Most Commit Language"
-  />
+<table align="center">
+<tr>
+
+<td width="50%" align="center">
+
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ChaitanyaXDev&theme=github_dark"
+  width="100%"
+  alt="GitHub Profile Details"
+/>
+
+</td>
+
+<td width="50%" align="center">
+
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ChaitanyaXDev&theme=github_dark&utcOffset=5.5"
+  width="100%"
+  alt="Productive Time"
+/>
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+<p align="center">
+
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ChaitanyaXDev&theme=github_dark"
+  width="42%"
+  alt="GitHub Stats"
+/>
+
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ChaitanyaXDev&theme=github_dark"
+  width="42%"
+  alt="Repository Languages"
+/>
+
 </p>
 
 ---
