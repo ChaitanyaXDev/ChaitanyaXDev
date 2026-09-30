@@ -148,6 +148,33 @@
 
 ---
 
+## ◈ LeetCode
+
+<p align="center">
+  <a href="https://leetcode.com/u/Chaitnya24/">
+    <img
+      src="https://leetcard.jacoblin.cool/Chaitnya24?theme=dark&font=Karma&ext=heatmap"
+      width="520"
+      alt="Chaitnya24 LeetCode Stats"
+    />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://leetcode.com/u/Chaitnya24/">
+    <img
+      src="https://img.shields.io/badge/LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"
+      alt="LeetCode Profile"
+    />
+  </a>
+</p>
+
+<p align="center">
+  <i>Practising data structures, algorithms, and interview-oriented problem solving.</i>
+</p>
+
+---
+
 ## ◈ Current Focus
 
 <p align="center">
