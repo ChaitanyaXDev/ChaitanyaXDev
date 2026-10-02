@@ -97,10 +97,19 @@ def streak_stats(entries: list[dict]) -> tuple[int, int]:
     today = dt.datetime.now().date()
     current = 0
     cursor = today
+
     while cursor in counts and counts[cursor] > 0:
         current += 1
         cursor -= dt.timedelta(days=1)
+
+    if current == 0:
+        cursor = today - dt.timedelta(days=1)
+        while cursor in counts and counts[cursor] > 0:
+            current += 1
+            cursor -= dt.timedelta(days=1)
+
     return current, longest
+
 
 current_streak, longest_streak = streak_stats(days)
 total = int(calendar["totalContributions"])
