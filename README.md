@@ -238,7 +238,7 @@
 </p>
 
 <p align="center">
-<sub>CRAFTED WITH CODE • CURIOSITY • CONSISTENCY</sub>
+<sub> CRAFTED WITH CODE • CURIOSITY • CONSISTENCY </sub>
 <br />
 <sub><b>© 2026 CHAITANYA DEVENDRA WARGHAT</b></sub>
 </p>
