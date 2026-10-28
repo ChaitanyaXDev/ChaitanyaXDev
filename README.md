@@ -1,6 +1,6 @@
 <!--
   Chaitanya Devendra Warghat · GitHub Profile
-  Visual system: #0A0A0A / #111111 / #161616 / #DC2626 / #EF4444 / #F3F4F7
+  Visual system: #0A0A0A / #111111 / #161616 / #DC2626 / #EF4444 / #F3F4F6
 -->
 
 <p align="center">
